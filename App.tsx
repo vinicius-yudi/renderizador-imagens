@@ -48,7 +48,7 @@ export default function App() {
     <div className="min-h-screen bg-gray-900 text-gray-200 font-sans flex flex-col">
       <Header />
       <main className="flex-grow container mx-auto p-4 md:p-8 grid grid-cols-1 lg:grid-cols-4 gap-8">
-        <div className="lg:col-span-1 bg-gray-800/50 rounded-2xl shadow-lg p-6 h-fit sticky top-8">
+        <div className="lg:col-span-1 bg-gray-800/50 rounded-2xl shadow-lg p-6 h-fit lg:sticky top-8">
           <ControlPanel 
             onGenerate={handleGenerate} 
             onImageUpload={handleImageUpload}
