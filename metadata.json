@@ -1,0 +1,5 @@
+{
+  "name": "RenderKeeper — Realce e Render Fotorrealista",
+  "description": "Faça o upload de um render básico ou de uma captura de tela de viewport 3D para gerar imagens fotorrealistas. Esta ferramenta aprimora a iluminação, os materiais e adiciona decorações opcionais, preservando a integridade do design original do seu projeto.",
+  "requestFramePermissions": []
+}
